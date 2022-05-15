@@ -39,8 +39,9 @@ header .logo{
 color: var(--vermelho);
 font-family:'Roboto',Times;
 font-size: 30px;
-    margin-top: 5px;
-    margin-left: 5px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
     
 }
 
@@ -60,10 +61,10 @@ color:#fff;
 .filme-principal{
 
 font-size: 16px;
-background: linear-gradient(black, transparent, black), url(/fundo.jpg);
+background: linear-gradient(black, transparent, black), url(/img/fundo.jpg);
 background-size: cover;
 margin-bottom: 15px;
-height: 550px;
+height: 540px;
 display: flex;
 flex-direction: column;
 justify-content: space-between;
